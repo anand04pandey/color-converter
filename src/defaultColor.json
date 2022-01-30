@@ -1,0 +1,12 @@
+{
+  "rainbow": "red,orange,yellow,green,blue,indigo,violet",
+  "car": "red,yellow,green,blue,black,white,cream",
+  "red": "maroon,darkred,brown,firebrick,crimson,red,tomato,coral,indianred,lightcoral",
+  "orange": "Coral,Salmon,Orange",
+  "gold": "lightgoldenrodyellow,palegoldenrod,khaki,goldenrod,gold,orange,darkorange,peru,chocolate,saddlebrown,sienna",
+  "blue": "aliceblue,lavender,powderblue,lightblue,lightskyblue,skyblue,deepskyblue,lightsteelblue,dodgerblue,cornflowerblue,steelblue,cadetblue,mediumslateblue,slateblue,darkslateblue,royalblue,blue,mediumblue,darkblue,navy,midnightblue,blueviolet,indigo",
+  "green": "lawngreen,chartreuse,limegreen,lime,forestgreen,green,darkgreen,greenyellow,yellowgreen,springgreen,mediumspringgreen,lightgreen,palegreen,darkseagreen,mediumseagreen,lightseagreen,seagreen,olive,darkolivegreen,olivedrab",
+  "pink": "pink,lightpink,hotpink,deeppink,palevioletred,mediumvioletred",
+  "purple": "lavender,thistle,plum,violet,orchid,fuchsia,magenta,mediumorchid,mediumpurple,blueviolet,darkviolet,darkorchid,darkmagenta,purple,indigo",
+  "grey": "gainsboro,lightgrey,silver,darkgrey,grey,dimgrey,lightslategrey, slategrey, darkslategrey,black"
+}

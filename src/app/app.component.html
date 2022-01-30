@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row">
+    <div class="col-25">Enter a word</div>
+    <div class="col-75">
+      <input
+        id="color01"
+        type="text"
+        value="{{ name }}"
+        class="w3-input w3-border"
+        (keyup)="convertColor($event)"
+        [(ngModel)]="name"
+        placeholder="e.g. Rainbow"
+      />
+    </div>
+  </div>
+</div>
+<div class="masonry">
+  <div
+    class="item"
+    *ngFor="let color of colorArr; let indexOfelement = index"
+    style="background-color:#{{ color }}"
+  >
+    #{{ color }}
+  </div>
+</div>
